@@ -1,6 +1,1 @@
 This is the walkthrough for the Mr.Robot CTF found at vuln hub. 
-
-Here is the Mr.Robot vm upon booting
-Initially tried some obvious passwords such as; admin,Admin,Elliot,robot,fsociety, but nothing worked.
-
-The next step was to determine the ip address by running netdiscovery from a terminal, and we identified 192.168.1.65 as the Mr.Robot VM.
